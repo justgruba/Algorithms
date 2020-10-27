@@ -1,11 +1,8 @@
+#include <iostream>
 
 
-#include <cstdlib>
-
-using namespace std;
-
-int main(int argc, char** argv) {
-    cout << "Hello World" << endl;
+int main() {
+    std::cout << "Hello world";
     return 0;
 }
 
